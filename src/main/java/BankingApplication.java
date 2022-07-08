@@ -81,8 +81,7 @@ class AccountNumber {
                 case 'E':
                     System.out.println("EXIT!");
                 default:
-                    System.out.println("Opti" +
-                            "on is invalid");
+                    System.out.println("Option is invalid");
                     break;
             }
         } while (option != 'E');
